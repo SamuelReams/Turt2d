@@ -50,8 +50,12 @@ background(color);  --sets the background of the canvas to a specified color <br
 
 perlinNoise(value); --returns perlin noise function at the value <br />
 
+turt   --the main turtle object (if you want to add stuff to it) <br />
+turt.x --variable for turtle x coordinate <br />
+turt.y --variable for turtle y coordinate <br />
 
+<br />
 uhh... enjoy? <2
-
+<br /> <br />
 -Samuel Reams
 -------------------------
