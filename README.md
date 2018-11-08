@@ -57,7 +57,7 @@ turt.y --variable for turtle y coordinate <br />
 <br />
 # Import
 
-All you have to do to import Turt2D into a project is put the file location in a script tag.<br />
+All you have to do to import Turt2D into your project is to put it in a script tag.<br />
 (along with your main javascript file as well)
 ```html
 <!DOCTYPE html>
