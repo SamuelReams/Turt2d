@@ -4,7 +4,7 @@ Turt2d includes the following functions:
 
 
 Example:
-'''
+```javascript
 function init() {
   frameRate = 30; /*To make a set frame rate*/
   initFrames();
@@ -23,7 +23,7 @@ function draw() {
 
 /*Run Code*/
 animations();
-'''
+```
 rect(x, y, width, height);
 shape(size, shape, color(square, triangle, and circle), thiccness);
 arcRight(x, y, radius, start, end);
