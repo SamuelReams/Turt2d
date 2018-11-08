@@ -27,28 +27,28 @@ animations();
 # Functions
 
 
-rect(x, y, width, height);
-shape(size, shape, color(square, triangle, and circle), thiccness);
-arcRight(x, y, radius, start, end);
-arcLeft(x, y, radius, start, end);
-star();
-beginPath();
-endPath();
+rect(x, y, width, height); <br />
+shape(size, shape, color(square, triangle, and circle), thiccness); <br />
+arcRight(x, y, radius, start, end); <br />
+arcLeft(x, y, radius, start, end); <br />
+star(); <br />
+beginPath(); <br />
+endPath(); <br />
 
-penColor();
-penWidth();
+penColor(); <br />
+penWidth(); <br />
 
-getX();    --returns turtle X coordinate
-getY();    --returns turtle y coordinate
-forward(distance);     --moves turtle forward (up)
-backward(distance);    --moves turtle backward (down)
-left(distance);        --moves turtle left
-right(distance);       --moves turtle right
-moveTo(x, y);          --moves turtle to specified x and y coordinates
+getX();    --returns turtle X coordinate <br />
+getY();    --returns turtle y coordinate <br />
+forward(distance);     --moves turtle forward (up) <br />
+backward(distance);    --moves turtle backward (down) <br />
+left(distance);        --moves turtle left <br />
+right(distance);       --moves turtle right <br />
+moveTo(x, y);          --moves turtle to specified x and y coordinates <br />
 
-background(color);  --sets the background of the canvas to a specified color
+background(color);  --sets the background of the canvas to a specified color <br />
 
-perlinNoise(value); --returns perlin noise function at the value
+perlinNoise(value); --returns perlin noise function at the value <br />
 
 
 uhh... enjoy? <2
