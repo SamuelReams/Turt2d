@@ -1,5 +1,4 @@
 # Turt2d
-Very basic turtle programming library in JavaScript. Work in progress.
 -------------------------
 Turt2d includes the following functions:
 
