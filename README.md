@@ -55,6 +55,24 @@ turt.x --variable for turtle x coordinate <br />
 turt.y --variable for turtle y coordinate <br />
 
 <br />
+# Import
+
+All you have to do to import Turt2D into a project is put the file location in a script tag.<br />
+(along with your main javascript file as well)
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<canvas></canvas>
+		<script src="https://raw.githubusercontent.com/SamuelReams/Turt2d/master/turt2d.js"></script>
+		<script src="sketch.js"></script>
+	</body>
+</html>
+```
+That's it!
+------------------------
 uhh... enjoy? <2
 
 ### - Samuel Reams :neckbeard: :turtle:
