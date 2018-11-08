@@ -1,9 +1,8 @@
 # Turt2d
 -------------------------
-Turt2d includes the following functions:
 
 
-Example:
+Example program (draws a blue rectangle on a light blue background):
 ```javascript
 function init() {
   frameRate = 30; /*To make a set frame rate*/
@@ -24,6 +23,10 @@ function draw() {
 /*Run Code*/
 animations();
 ```
+
+# Functions
+
+
 rect(x, y, width, height);
 shape(size, shape, color(square, triangle, and circle), thiccness);
 arcRight(x, y, radius, start, end);
