@@ -3,6 +3,27 @@
 Turt2d includes the following functions:
 
 
+Example:
+'''
+function init() {
+  frameRate = 30; /*To make a set frame rate*/
+  initFrames();
+}
+
+function draw() {
+  background("lightblue");
+  /*Put your main animations and code here*/
+	
+	penColor("blue");  
+  t.rect(turt.x, turt.y, 200, 200);
+	
+  showFrames();
+}
+
+
+/*Run Code*/
+animations();
+'''
 rect(x, y, width, height);
 shape(size, shape, color(square, triangle, and circle), thiccness);
 arcRight(x, y, radius, start, end);
