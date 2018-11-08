@@ -1,4 +1,4 @@
-# Turt2d
+# Turt2D :turtle:
 -------------------------
 
 
@@ -25,7 +25,7 @@ animations();
 ```
 
 # Functions
-
+:turtle:
 
 rect(x, y, width, height); <br />
 shape(size, shape, color(square, triangle, and circle), thiccness); <br />
@@ -57,5 +57,5 @@ turt.y --variable for turtle y coordinate <br />
 <br />
 uhh... enjoy? <2
 
-### - Samuel Reams :neckbeard:
+### - Samuel Reams :neckbeard: :turtle:
 -------------------------
