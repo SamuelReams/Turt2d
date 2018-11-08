@@ -56,6 +56,6 @@ turt.y --variable for turtle y coordinate <br />
 
 <br />
 uhh... enjoy? <2
-<br /> <br />
-*- Samuel Reams*
+
+### - Samuel Reams
 -------------------------
