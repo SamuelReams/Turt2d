@@ -1,7 +1,12 @@
 # Turt2D :turtle:
 -------------------------
 
+Turt2D is an engaging, turtle programming library that runs on top of Javascript. <br />
+<br />
+nah fam I'm just kidding but like use it if you want, it has some utility functions that are helpful whilst drawing in 2d space in javascript <br />
 
+# How to Use
+-------------------------
 Example program (draws a blue rectangle on a light blue background):
 ```javascript
 function init() {
