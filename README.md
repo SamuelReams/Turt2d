@@ -29,7 +29,7 @@ function draw() {
 animations();
 ```
 
-# Functions
+### Functions
 :turtle:
 
 rect(x, y, width, height); <br />
