@@ -30,6 +30,7 @@ animations();
 ```
 
 ### Functions
+-------------------------
 :turtle:
 
 rect(x, y, width, height); <br />
@@ -61,6 +62,7 @@ turt.y --variable for turtle y coordinate <br />
 
 <br />
 # Import
+-------------------------
 
 All you have to do to import Turt2D into your project is to put it in a script tag.<br />
 (along with your main javascript file as well)
